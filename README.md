@@ -12,11 +12,4 @@
 <h3 align="center">💡 Always learning and building — one line of code at a time.</h3>
 <br/>
 
-###
 
-<h1 align="left">Portfolio Projects</h1>
-
-###
-
-
-<br/><br/>
